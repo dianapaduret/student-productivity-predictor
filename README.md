@@ -36,3 +36,12 @@ The system includes:
 ---
 
 ##  Project Structure
+student-productivity-predictor/
+ - backend: main.py # FastAPI backend (prediction API)
+ - frontend: app.py # Streamlit user interface
+ - model: productivity_model.pkl # trained ML model
+ - data: student_productivity.csv # dataset
+ - notebooks: eda.ipynb # data exploration; model_day2.ipynb # model training
+ - requirements.txt # dependencies
+ - README.md # project documentation
+ - .gitignore # ignored files
