@@ -24,6 +24,18 @@ The system includes:
 
 ---
 
+## Model
+
+- Algorithm: Linear Regression
+- Features:
+  - Sleep hours
+  - Phone usage hours
+  - Study hours per day
+- Target: Productivity score
+
+---
+
+
 ##  Tech Stack
 
 - Python
